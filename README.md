@@ -5,7 +5,7 @@ ___
 
 [![VIDEO DEMO](http://imgur.com/txVeihv.png)](https://www.youtube.com/watch?v=tlqAQPlresc "VIDEO DEMO")
 
-#### This Project was developed at UofT Hacks IV (2017) with Jomar and Jason, Jomar as the team lead.
+#### This Project was developed at UofT Hacks IV (2017) with Jomar Gacoscos and Jason Philip Williams, Jomar as the team lead.
 ___
 
 ## Getting Started
